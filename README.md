@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there 👋
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=quantik-git&count_private=true&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quantik-git&layout=compact&theme=tokyonight)
 
-<!--
-**quantik-git/quantik-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+<details>
+<summary>Web Development</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Put an **empty line** after the `<summary>` block.
+ 
+</details>
+
+<details>
+<summary>College</summary>
+
+ - Put an **empty line** after the `<summary>` block
+ 
+</details>
